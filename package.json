@@ -1,0 +1,26 @@
+{
+  "name": "express-faker-api",
+  "version": "1.0.0",
+  "description": "Faker API Coding Dojo Assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherHoganJr/Express-Faker-API.git"
+  },
+  "author": "Chris Hogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherHoganJr/Express-Faker-API/issues"
+  },
+  "homepage": "https://github.com/ChristopherHoganJr/Express-Faker-API#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0"
+  }
+}
